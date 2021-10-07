@@ -79,7 +79,7 @@ Introduce general boosting algorithm - Show particular cases for regression and 
 Clustering - kMeans - spectral clustering - hierarchical clustering Anomaly Detection - One class SVM - CUMSUM
 ### 10- EM and PCA</br>
 genral formulation of EM algorithm, GMM mixture - connection with kmeans - formulation of PCA as optimization problem - solution with SVD - formulaation of PCA as probabilistic model - solution with EM algorithm
-### 1- Bayesian Linear Regression</br>
+### 11- Bayesian Linear Regression</br>
 ### 12- GP for regression and classification tasks</br>
 ### 13- MLP and DNN for Classification</br>
 ### 14- Deep Generative Models</br>
