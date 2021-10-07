@@ -59,27 +59,27 @@ This course presents the foundations of rapidly developing scientific field call
 * To be able to formulate PCA as probabilistic model
 
 ## Course Contents
-*** Introduction to Machine Learning</br>**
+### * Introduction to Machine Learning</br>
 problem set-up, problem types, features, examples of application in industry
-* Basic gradient optimization.</br>
+### * Basic gradient optimization.</br>
 Running example: Linear Regression - Vanilla gradient descent - Learning rate and pre-conditioning - Stochastic version - Proximal updates
-* Linear Regression Model</br>
+### * Linear Regression Model</br>
 Close-form solution analysis and connection to MLE - Regularization and affection of closed-form solution (in orthogonal feaures case) - Regularizatin and Overfitting, basic cross-validaton - Iterative solution and stochastic version - Continual update and efficient LOOCV (Sherman-Morison update, QR) - Outlier diagnostic
-* Linear Classification</br>
+### * Linear Classification</br>
 problem formulation - margin of a classifer - error rate loss function and its upper bounds - quality metrics for classification (Pr, Recall, F1, ROC-AUC, etc.) - Breifly define Logistic Regression
-* Logistic Regression and SVM</br>
+### * Logistic Regression and SVM</br>
 Logistic Regression as GLM - Connection to MLE - SVM in Linearly separable and non-separable cases - Connection to distance between convex sets - Support vectors analysis - Kernel trick
-* Decision Trees</br>
+### * Decision Trees</br>
 Define binary tree (nodes, predicates, leaves) - Define Impurity Criterion - Greedy algoritm for tree construction - Pruning strategies - Regularization strategies - Decision trees for unsupervised problems and anomaly detection
-* Bagging, Random Forest and Bias-Variance Tradeoff</br>
+### * Bagging, Random Forest and Bias-Variance Tradeoff</br>
 Bias-Variance Tradeoff: - Introduce concept, remind regularization - Introduce bootstrap, show on simple statistics, introduce jack-knife - Introduce bagging in machine learning algorithms Random Forest - introduce the algorithm - put in statistical context: bias-variance, margin, limit prediction distribution
-* Gradient boosting</br>
+### * Gradient boosting</br>
 Introduce general boosting algorithm - Show particular cases for regression and classification ie Adaboost, "weight" of samples interpretation - Discuss implementation details: regularization (step size, noise, step-back), second order optimization, stochastic versions - Stacking
-* Clustering and Anomaly Detection</br>
+### * Clustering and Anomaly Detection</br>
 Clustering - kMeans - spectral clustering - hierarchical clustering Anomaly Detection - One class SVM - CUMSUM
-* EM and PCA</br>
+### * EM and PCA</br>
 genral formulation of EM algorithm, GMM mixture - connection with kmeans - formulation of PCA as optimization problem - solution with SVD - formulaation of PCA as probabilistic model - solution with EM algorithm
-* Bayesian Linear Regression</br>
-* GP for regression and classification tasks</br>
-* MLP and DNN for Classification</br>
-* Deep Generative Models</br>
+### * Bayesian Linear Regression</br>
+### * GP for regression and classification tasks</br>
+### * MLP and DNN for Classification</br>
+### * Deep Generative Models</br>
