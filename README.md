@@ -59,7 +59,7 @@ This course presents the foundations of rapidly developing scientific field call
 * To be able to formulate PCA as probabilistic model
 
 ## Course Contents
-* Introduction to Machine Learning</br>
+*** Introduction to Machine Learning</br>**
 problem set-up, problem types, features, examples of application in industry
 * Basic gradient optimization.</br>
 Running example: Linear Regression - Vanilla gradient descent - Learning rate and pre-conditioning - Stochastic version - Proximal updates
